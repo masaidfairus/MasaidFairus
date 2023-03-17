@@ -1,5 +1,7 @@
 ## Yo!, I'am Masaid Fairus Trimarsongko <img src="https://media.tenor.com/_d0iCsfNE2IAAAAj/penguin-wave.gif" width="50">
-
+<p> -------------------------------------------------------------------------------------------------------------------------------------------------------------- <p>
+Hello, There
+  
 <!--
 **MasaidFairus/MasaidFairus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
