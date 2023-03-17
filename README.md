@@ -1,4 +1,4 @@
-## Yo!, I'am Masaid Fairus Trimarsongko <img src="https://media.tenor.com/kM3Yh8ERH3MAAAAi/hi-hello.gif" width="35">
+## Yo!, I'am Masaid Fairus Trimarsongko <img src="https://media.tenor.com/_d0iCsfNE2IAAAAj/penguin-wave.gif" width="50">
 
 <!--
 **MasaidFairus/MasaidFairus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
