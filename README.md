@@ -1,9 +1,14 @@
 <h1 align="center"> Yo!, I'am Masaid Fairus Trimarsongko <img src="https://media.tenor.com/_d0iCsfNE2IAAAAj/penguin-wave.gif" width="50"><h1>
-
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Mono&pause=100&color=412FF7&center=true&vCenter=true&width=1000&lines=Hi!+There;Welcome+To+My+Page;I+am+interested+in+Programming+and+Technology" alt="Typing SVG" /></a>
-  <p>
   
+<p align="center">
+<img src="https://media.tenor.com/wN-FPJJTz28AAAAC/rgb-rainbow.gif" width="1000" height="5"><br><br>
+  <p>
+    
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Mono&size=30&pause=100&color=412FF7&center=true&vCenter=true&width=1000&lines=Hi!+There;Welcome+To+My+Page;I+am+interested+in+Programming+and+Technology" alt="Typing SVG" /></a>
+<p>
+ 
+ 
 <!--
 **MasaidFairus/MasaidFairus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
