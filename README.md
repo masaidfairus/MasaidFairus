@@ -7,7 +7,7 @@
 <br> 
     
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Mono&size=30&pause=100&color=412FF7&center=true&vCenter=true&width=1000&lines=Hi!+There;Welcome+To+My+Page;I+am+interested+in+Programming+and+Technology" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Mono&size=30&pause=100&color=412FF7&center=true&vCenter=true&width=1000&lines=Hi!+There;Welcome+To+My+Page;I+am+interested+in+Programming+and+Technology;See+You!" alt="Typing SVG" /></a>
 <p>
 
 <br>
