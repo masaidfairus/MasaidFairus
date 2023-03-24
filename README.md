@@ -17,8 +17,8 @@
   </p>
  
 <p>
-<a href:"https://www.youtube.com/@masaidfairus"><img src="![image](https://user-images.githubusercontent.com/106062448/227414613-b1155138-ef29-4a36-8e63-2f5096eedadc.png)" alt="Youtube"/></a>
-  <p>
+<a href="https://www.linkedin.com/in/masaidfairustrimarsongko"><img src="https://media4.giphy.com/media/yDM1kJZthxFPoGDdmq/giphy.gif"/></a>
+  </p>
     
 <!--
 **MasaidFairus/MasaidFairus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
