@@ -1,4 +1,4 @@
-<h1 align="center"> Yo!, I'am Masaid Fairus Trimarsongko <img src="https://media.tenor.com/_d0iCsfNE2IAAAAj/penguin-wave.gif" width="50"><h1>
+<h1 align="center"> Yo , I'm Masaid Fairus Trimarsongko <img src="https://media.tenor.com/_d0iCsfNE2IAAAAj/penguin-wave.gif" width="50"><h1>
   
 <p align="center">
 <img src="https://media.tenor.com/wN-FPJJTz28AAAAC/rgb-rainbow.gif" width="1000" height="5"><br><br>
@@ -13,13 +13,29 @@
 <br>
   
   <p align="center">
-<img src="https://media.tenor.com/wN-FPJJTz28AAAAC/rgb-rainbow.gif" width="1000" height="5"><br><br>
+<img src="https://media.tenor.com/wN-FPJJTz28AAAAC/rgb-rainbow.gif" width="1000" height="5"><br>
   </p>
- 
-<p>
-<a href="https://www.linkedin.com/in/masaidfairustrimarsongko"><img src="https://media4.giphy.com/media/yDM1kJZthxFPoGDdmq/giphy.gif"/></a>
+
+  <h2 align="center"> My Social Media </h2>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/masaidfairustrimarsongko"><img src="https://media4.giphy.com/media/yDM1kJZthxFPoGDdmq/giphy.gif" 
+                                                                    width="75"
+                                                                    style="margin-top=10px"/></a>
+  
+  
+<a href="https://www.instagram.com/msaidfairuss/"><img src="https://media0.giphy.com/media/jqVUX17Ze8mw0nXBbJ/giphy.gif?cid=ecf05e47gx8xt62jhjmvqactc81wo5y16mfktlsiaegu28ve&rid=giphy.gif&ct=s"
+                                                       width="75"
+                                                       style="margin-top=10px"/></a>
+<a href="https://www.youtube.com/@masaidfairus"><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDc4MGM1YzEyOWNmNWNhYTljOWIxMDU2ZDI0NTc2NThmZDYyMzQ0NyZjdD1z/rHd6LmPBedUbrtGAN7/giphy.gif"
+                                                     width="75"
+                                                     style="margin-top=10px"/></a>
+  
   </p>
-    
+  
+  
+  
+  
 <!--
 **MasaidFairus/MasaidFairus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
