@@ -27,8 +27,8 @@
 <a href="https://www.youtube.com/@masaidfairus"><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDc4MGM1YzEyOWNmNWNhYTljOWIxMDU2ZDI0NTc2NThmZDYyMzQ0NyZjdD1z/rHd6LmPBedUbrtGAN7/giphy.gif" width="75"/></a>
   </p>
   
-  
-  
+[![An image of @masaidfairus's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/masaidfairus)](https://holopin.io/@masaidfairus)
+
   
 <!--
 **MasaidFairus/MasaidFairus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
