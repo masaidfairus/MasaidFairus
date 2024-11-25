@@ -24,7 +24,7 @@
 <a href="https://www.linkedin.com/in/masaidfairustrimarsongko"><img src="https://media4.giphy.com/media/yDM1kJZthxFPoGDdmq/giphy.gif" width="70"/></a>
   </p>
 
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=masaidfairus)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=masaidfairus&show_icons=true&theme=radical)
   
 [![An image of @masaidfairus's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/masaidfairus)](https://holopin.io/@masaidfairus)
 
