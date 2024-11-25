@@ -27,7 +27,7 @@
 <a href="https://www.youtube.com/@masaidfairus"><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDc4MGM1YzEyOWNmNWNhYTljOWIxMDU2ZDI0NTc2NThmZDYyMzQ0NyZjdD1z/rHd6LmPBedUbrtGAN7/giphy.gif" width="75"/></a>
   </p>
 
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=masaidfairus)](https://github.com/anuraghazra/github-readme-stats)
   
 [![An image of @masaidfairus's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/masaidfairus)](https://holopin.io/@masaidfairus)
 
