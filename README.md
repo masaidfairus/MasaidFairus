@@ -19,7 +19,7 @@
   <h2 align="center"> My Social Media </h2>
 
 <p align="center" style="gap: 2rem; display:flex;">
-<a href="https://www.instagram.com/msaidfairuss/"><img src="https://media0.giphy.com/media/jqVUX17Ze8mw0nXBbJ/giphy.gif?cid=ecf05e47gx8xt62jhjmvqactc81wo5y16mfktlsiaegu28ve&rid=giphy.gif&ct=s" width="75" style="margin: 0 2rem;"/></a>
+<a href="https://www.instagram.com/msaidfairuss/"><img src="https://media0.giphy.com/media/jqVUX17Ze8mw0nXBbJ/giphy.gif?cid=ecf05e47gx8xt62jhjmvqactc81wo5y16mfktlsiaegu28ve&rid=giphy.gif&ct=s" width="75"/></a>
 <a href="https://www.youtube.com/@masaidfairus"><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDc4MGM1YzEyOWNmNWNhYTljOWIxMDU2ZDI0NTc2NThmZDYyMzQ0NyZjdD1z/rHd6LmPBedUbrtGAN7/giphy.gif" width="75"/></a>
 <a href="https://www.linkedin.com/in/masaidfairustrimarsongko"><img src="https://media4.giphy.com/media/yDM1kJZthxFPoGDdmq/giphy.gif" width="70"/></a>
   </p>
