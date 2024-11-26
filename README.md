@@ -20,11 +20,8 @@
 <h2>Social Media</h2>
 
 <a href="https://www.instagram.com/msaidfairuss/"><img src="https://img.shields.io/badge/Instagram-FD0049?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<p style="gap: 2rem; display:flex;">
-<a href="https://www.instagram.com/msaidfairuss/"><img src="https://media0.giphy.com/media/jqVUX17Ze8mw0nXBbJ/giphy.gif?cid=ecf05e47gx8xt62jhjmvqactc81wo5y16mfktlsiaegu28ve&rid=giphy.gif&ct=s" width="75"/></a>
-<a href="https://www.youtube.com/@masaidfairus"><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDc4MGM1YzEyOWNmNWNhYTljOWIxMDU2ZDI0NTc2NThmZDYyMzQ0NyZjdD1z/rHd6LmPBedUbrtGAN7/giphy.gif" width="75"/></a>
-<a href="https://www.linkedin.com/in/masaidfairustrimarsongko"><img src="https://media4.giphy.com/media/yDM1kJZthxFPoGDdmq/giphy.gif" width="70"/></a>
-</p>
+<a href="https://www.linkedin.com/in/masaidfairustrimarsongko"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.youtube.com/@masaidfairus"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=masaidfairus&count_private=true&show_icons=true&theme=dark&hide_rank=false" alt="Russ's github stats" />
