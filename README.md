@@ -31,5 +31,7 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=masaidfairus&count_private=true&show_icons=true&theme=dark&hide_rank=false" alt="Russ's github stats" />
 </a>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=masaidfairus&layout=compact&theme=dark" alt="Top Languages" />
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=masaidfairus&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
   
 [![An image of @masaidfairus's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/masaidfairus)](https://holopin.io/@masaidfairus)
