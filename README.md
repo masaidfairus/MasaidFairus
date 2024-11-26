@@ -1,9 +1,7 @@
 <h1 align="center"> Sup, I am Masaid Fairus Trimarsongko</h1> <br>
 <p align="center"><img src="https://media.tenor.com/_d0iCsfNE2IAAAAj/penguin-wave.gif"></p>
   
-<p align="center">
-<img src="https://media.tenor.com/wN-FPJJTz28AAAAC/rgb-rainbow.gif" width="1000" height="5"><br><br>
-  </p>
+<p align="center"><img src="https://media.tenor.com/wN-FPJJTz28AAAAC/rgb-rainbow.gif" width="1000" height="5"><br><br></p>
 <br> 
     
 <p align="center">
@@ -17,7 +15,7 @@
 </p>
 
 <h2>Tech Stack</h2>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+<img src="https://img.shields.io/badge/Figma-1E1E1E?style=for-the-badge&logo=figma&logoColor=white">
 
 <h2>Social Media</h2>
 
