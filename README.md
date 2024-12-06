@@ -6,6 +6,8 @@
 
 <h2>Tech Stack</h2>
 <img src="https://img.shields.io/badge/Figma-1E1E1E?style=for-the-badge&logo=figma&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-f0dc56?style=for-the-badge&logo=javascript&logoColor=white">
+
 
 <h2>Social Media</h2>
 
