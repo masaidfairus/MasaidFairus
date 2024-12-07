@@ -1,4 +1,4 @@
-<h1 align="center"> Sup, I am Masaid Fairus Trimarsongko</h1> <br>
+<h1 align="center"> Sup, I am Masaid Fairus Trimarsongko </h1> <br>
 <p align="center"><img src="https://media.tenor.com/_d0iCsfNE2IAAAAj/penguin-wave.gif"></p>
 
 <img src="https://visitcount.itsvg.in/api?id=masaidfairus&icon=9&color=3)](https://visitcount.itsvg.in">
