@@ -3,9 +3,9 @@
 
 <div align="center">
 
-### 🚀 Full-Stack Developer | Web Application Specialist
+### Back-end Engineer
 
-Passionate full-stack developer with expertise in modern web technologies. I create scalable, user-centric applications with clean code and best practices. Experienced in both frontend and backend development across multiple platforms.
+Passionate Back-end Engineer with expertise in modern web technologies. I create scalable, user-centric applications with clean code and best practices. Experienced in both frontend and backend development across multiple platforms.
 
 </div>
 
