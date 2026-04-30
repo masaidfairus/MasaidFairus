@@ -32,15 +32,13 @@ Passionate full-stack developer with expertise in modern web technologies. I cre
 
 ---
 
-<h2>📱 Connect With Me</h2>
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/masaidfairustrimarsongko"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+### Connect with me
+<a href="https://scrimba.com/u4276962"><img src="https://img.shields.io/badge/Scrimba-0077B5?style=for-the-badge&logo=scrimba&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/masaidfairus"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://www.instagram.com/msaidfairuss/"><img src="https://img.shields.io/badge/Instagram-FD0049?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="https://www.youtube.com/@masaidfairus"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
 
-</div>
+[![20% Discount off Scrimba](https://i.ibb.co/HD3x73NB/scrimbassadors-cta.png)](https://scrimba.com/?via=u4276962)
 
 ---
 
